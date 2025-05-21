@@ -10,9 +10,6 @@ This tutorial outlines how to create and manage a virtual machine (VM) in Azure,
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
