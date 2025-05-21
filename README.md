@@ -3,7 +3,7 @@
 </p>
 
 <h1>Create a virtual machine</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+This tutorial outlines how to create and manage a virtual machine (VM) in Azure, covering configurations and best practices. <br />
 
 
 <h2>Environments and Technologies Used</h2>
