@@ -97,7 +97,7 @@ Now the VM is created
 <img src="https://i.imgur.com/AjAjFhb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-VM is deployed. It can be accessed using RDP using the public IP of the VM and the username and password made earlier.
+VM is deployed. It can be accessed using RDP with the public IP of the VM and the username and password made earlier.
 </p>
 <br />
 
